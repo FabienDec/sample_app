@@ -1,10 +1,4 @@
 require 'test_helper'
-require "minitest/reporters"
-Minitest::Reporters.use!
-
-#require 'win32console'
-#include Win32::Console::ANSI
-#include Term::ANSIColor
 
 class StaticPagesControllerTest < ActionDispatch::IntegrationTest
 

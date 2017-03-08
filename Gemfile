@@ -34,4 +34,10 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-#gem 'win32console'
+#gem 'win32console', '1.3.2'
+
+
+#Successfully installed win32console-1.3.2-x86-mingw32
+#unable to convert "\xF1" from ASCII-8BIT to UTF-8 for extra/Console.rdoc, skipping      
+#unable to convert "\xF1" from ASCII-8BIT to UTF-8 for extra/Console_ANSI.rdoc, skipping 
+# C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/win32console-1.3.2-x86-mingw32/lib/Win32/Console/ANSI.rb
